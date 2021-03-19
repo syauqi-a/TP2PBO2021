@@ -1,0 +1,15 @@
+Saya Khamidah Ahmad Syauqi mengerjakan evaluasi TP 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Kesulitan:
+ - Membuat koneksi ke server localhost.
+
+Hal baru yang dipelajari:
+ - membuat koneksi ke server localhost,
+ - membuat database baru jika database tidak ditemukan, dan
+ - menambahkan foto ke jform.
+
+Fitur:
+ - memiliki tombol “Form”, “Table”, dan “Info”,
+ - menambahkan data ke database lokal mysql jika tombol "submit" ditekan,
+ - mengambil data dari database untuk pengisian isi tabel,
+ - foto di bagian info, dan
+ - membuat database baru jika database tidak ditemukan.
